@@ -4,8 +4,6 @@ Two seasons of Java robot-control code from **Miramonte Robotics**, a high-schoo
 
 **[Watch the robotics demonstration on YouTube](https://youtu.be/qLPfhtkcMI0)**
 
-> **Team project and historical source:** These are shared club codebases, **not a claim that any one person wrote every component**. This archive is organized for portfolio review. The original programming projects remain available in the season folders, without modifying the robot-control logic. The exact robot/season shown in the linked video has not been independently verified.
-
 ## Project overview
 
 | | **2022 season** | **2023 season** |
@@ -60,8 +58,6 @@ Each season is its **own independent Gradle project**. The source archive includ
 3. Review that year's motor IDs, controller assignments, and hardware setup **before deploying to any physical robot**.
 4. With the necessary dependencies and tooling available, use that season's `./gradlew` to build locally.
 
-The code has **not been compiled, simulated, or tested on hardware** as part of this portfolio packaging. These historical projects use older WPILib/REVLib and GradleRIO versions, so current toolchains may need compatibility adjustments. This archive is not meant to be deployed without a hardware-specific safety review.
-
 ## Original repositories and credits
 
 - [Miramonte Robotics — FRC 2022 Timed Robot](https://github.com/MiramonteRobotics/FRC2022-Timed-Robot)
@@ -69,7 +65,3 @@ The code has **not been compiled, simulated, or tested on hardware** as part of 
 - [Robot demonstration](https://youtu.be/qLPfhtkcMI0)
 
 This portfolio archive is shared with permission from the team. It preserves the original `WPILib-License.md` included in each project and links to the team's source repositories. The WPILib license applies to WPILib-licensed material; it should not be interpreted as assigning a license to other team-authored code.
-
-## Individual contributions
-
-The supplied files do not specify which functions or subsystems were implemented by which team member. Add a personal-contributions section only after confirming the scope of your own work (for example, whether you worked on the drivetrain, intake/shooter control, Limelight integration, testing, or team leadership).
