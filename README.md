@@ -68,7 +68,7 @@ The code has **not been compiled, simulated, or tested on hardware** as part of 
 - [Miramonte Robotics — FRC 2023 Timed Robot](https://github.com/MiramonteRobotics/FRC-2023-Timed-Robot)
 - [Robot demonstration](https://youtu.be/qLPfhtkcMI0)
 
-This archive preserves the original `WPILib-License.md` included in each project. That file covers WPILib-licensed material and does not, by itself, establish redistribution rights for all team-authored code. **Before publishing the bundled code publicly, confirm the team's permission and applicable licensing**, especially if the original repositories are private.
+This portfolio archive is shared with permission from the team. It preserves the original `WPILib-License.md` included in each project and links to the team's source repositories. The WPILib license applies to WPILib-licensed material; it should not be interpreted as assigning a license to other team-authored code.
 
 ## Individual contributions
 
